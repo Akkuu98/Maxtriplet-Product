@@ -18,4 +18,4 @@ for _ in range(0,int(input())):
     ob=Solution()
     res = ob.maxTripletProduct(arr)
     print(res)
-# } Driver Code Ends
+# } Driver Code Ends by ak
